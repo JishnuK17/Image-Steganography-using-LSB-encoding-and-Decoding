@@ -3,9 +3,9 @@ LSB Image Steganography is a program that hides secret data inside an image file
 The project also allows extracting the hidden message from the image by decoding the image.
 
 # Technologies used
-Advanced C - Structures
-File Handling
-String
-Bitwise operations
-Functions (fopen, fread, fseek, strcmp, strcpy)
-Command line Argument
+-Advanced C - Structures
+-File Handling
+-String
+-Bitwise operations
+-Functions (fopen, fread, fseek, strcmp, strcpy)
+-Command line Argument
